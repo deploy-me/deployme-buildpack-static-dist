@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Static config files inject"
+exit 0

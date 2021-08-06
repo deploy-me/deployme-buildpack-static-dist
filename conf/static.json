@@ -1,0 +1,4 @@
+{
+  "root": "${PUBLIC}",
+  "clean_urls": true
+}

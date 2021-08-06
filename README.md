@@ -1,2 +1,2 @@
 # deployme-buildpack-static-dist
-Buildpack for config static files directory name "dist"
+An additional buildpack for static sites, it places the static.json file in the root directory
